@@ -21,10 +21,27 @@ Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
 installed as well as any online services.
 
+####Student Technologies#####
+During the class, we will be using several different softwares: *Visual Studio Code, GitHub, MakeArcade.*
+
+Visual Studio Code is a way to edit code, and to see the changes that you are making to it in real time on the computer. 
+Github will be used to upload the code and to make websites for the students.
+MakerArcade is an online website that will be used for teaching the basics of coding to students in a block based format. 
+
+####Teacher Technologies#####
+
+During the class, we will be using several different softwares: *Visual Studio Code, GitHub, MakeArcade.*
+
+Visual Studio Code is a way to edit code, and to see the changes that you are making to it in real time on the computer. 
+Github will be used to upload the code and to make websites for the students.
+MakerArcade is an online website that will be used for teaching the basics of coding to students in a block based format. 
+
 ### Hardware Specifications
 
 Describe the hardware requirements for your class. Provide specific requirements
 wherever necessary.
+
+I have limited knowledge that the current teacher told be verbally before he left for summer break. I do not have access to him or the school for several months. The hardware are a mixture of  tower computers and laptops, that all have 16 Gb of Ram and 1 Tb of memory. The tower computers are all plugged in via ethernet and hardwired to the wall. The laptops are connecting to the router to the school wifi. The students themselves will not have to provide anything on their own. 
 
 ### Application
 
