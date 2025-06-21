@@ -21,14 +21,14 @@ Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
 installed as well as any online services.
 
-####Student Technologies#####
+#### Student Technologies #####
 During the class, we will be using several different softwares: *Visual Studio Code, GitHub, MakeArcade.*
 
 Visual Studio Code is a way to edit code, and to see the changes that you are making to it in real time on the computer. 
 Github will be used to upload the code and to make websites for the students.
 MakerArcade is an online website that will be used for teaching the basics of coding to students in a block based format. 
 
-####Teacher Technologies#####
+#### Teacher Technologies #####
 
 During the class, we will be using several different softwares: *Visual Studio Code, GitHub, MakeArcade.*
 
