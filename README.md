@@ -22,19 +22,24 @@ well as any software the instructor will use. This should include any software
 installed as well as any online services.
 
 #### Student Technologies #####
-During the class, we will be using several different softwares: *Visual Studio Code, GitHub, MakeArcade.*
+During the class, we will be using several different softwares: *Visual Studio Code, GitHub, MakeArcade, Slack, problems.org, W3Schools, and Piazza*
 
 Visual Studio Code is a way to edit code, and to see the changes that you are making to it in real time on the computer. 
 Github will be used to upload the code and to make websites for the students.
 MakerArcade is an online website that will be used for teaching the basics of coding to students in a block based format. 
+Slack will be used as a way for students to communicate with each other about work in our class and to help each other out. 
+Problet.org will be used for assignment autograded problets for students in class to help them practice reading and writing code
+W3 schools will be used to help teach about coding and assigning problems. 
+Piazza will be used to create class message boards for general problem solving asynchronously and across different classes. 
 
 #### Teacher Technologies #####
 
-During the class, we will be using several different softwares: *Visual Studio Code, GitHub, MakeArcade.*
+During the class, we will be using several different softwares: *Visual Studio Code, GitHub, MakeArcade, and GithubAutograder.*
 
 Visual Studio Code is a way to edit code, and to see the changes that you are making to it in real time on the computer. 
 Github will be used to upload the code and to make websites for the students.
 MakerArcade is an online website that will be used for teaching the basics of coding to students in a block based format. 
+Github autograder will be used to check student code and give automated feedback to the students. 
 
 ### Hardware Specifications
 
@@ -49,7 +54,10 @@ Describe how you will use the above technologies in the class, including
 in-class activities, homework, assignments, and assessment. Justify the use
 in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
 
-WIth regards to homework, our school says that we cannot assignment any homework that the student cannot complete on the school assigned chromebook or with physical materials provided. As such, I will be limited in what can be assigned, and would not be able to use any of the above software. 
+With regards to homework, our school says that we cannot assignment any homework that the student cannot complete on the school assigned chromebook or with physical materials provided. As such, I will be limited in what can be assigned, and would not be able to use any of the above software. 
+In the classroom, I plan on assignmening problets through problets.org and W3Schools. Both of these programs provide real time, immediate feedback to students without any input from the teacher. This type of feedback is a much faster and more accurate way of helping to teach rudimentary coding rather than having the teacher check each student; it removes human error in grading, and gives student in the moment teaching that wouldn't otherwise be possible. These type of assignments are also targeted feedback that would students direct evidence on where they need help; it identifies where the errors are and makes them fix it in real time.
+
+These types of assignments would be given out with a flexible timeline, such as assigned on Monday and due by Friday. This way students who are diverse learners who need extra time would have flexibility on how and when they finish their work without being alienated by their peers or feel external time pressures. These programs also allow for IEP and SPED student accomodations. I am currently an inclusion science teacher at my school, and one of the most common ways that we adapt assignments for students is to reduce the volume of work without reducing the academic standards being covered. Both of the problet websites listed would allow for individualized changes and allow students with those IEP accomodations to have their academic needs met while still learning the same curriculum. 
 
 ### Impacts
 
