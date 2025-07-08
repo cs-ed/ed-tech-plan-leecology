@@ -34,11 +34,12 @@ Piazza will be used to create class message boards for general problem solving a
 
 #### Teacher Technologies #####
 
-During the class, we will be using several different softwares: *Visual Studio Code, GitHub, MakeArcade, and GithubAutograder.*
+During the class, we will be using several different softwares: *Visual Studio Code, GitHub, MakeArcade, goguardian, and GithubAutograder.*
 
 Visual Studio Code is a way to edit code, and to see the changes that you are making to it in real time on the computer. 
 Github will be used to upload the code and to make websites for the students.
 MakerArcade is an online website that will be used for teaching the basics of coding to students in a block based format. 
+GoGuardian is a software that my school uses to monitor what websites students are using and to block access to specific sites. 
 Github autograder will be used to check student code and give automated feedback to the students. 
 
 ### Hardware Specifications
@@ -65,3 +66,5 @@ How will the technology help *all* students learn? In this section, you can also
 describe how you address class resiliency, such as adapting to
 transitions to virtual education, social/legal/ethical challenges,  and/or
 evolving course contexts.
+
+One of the most common problems I assume that I will run into will be plagerism and the use of AI in the classroom. With regards to plagerism, I am planning on implementing MOSS as an antiplagerism tool. While it will still be up to me to monitor and see why there are similarities, this should help to reduce copying. As far as AI and copying other people's work online, I am hoping to limit this using GoGuardian. Goguardian has an option to only allow access to specific sites, which would prevent students from writing out their problems in AI programs such as ChatGPT and copying the response as their own work. 
