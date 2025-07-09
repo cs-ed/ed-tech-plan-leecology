@@ -43,11 +43,21 @@ GoGuardian is a software that my school uses to monitor what websites students a
 Github autograder will be used to check student code and give automated feedback to the students. 
 
 ### Hardware Specifications
+Teacher device: 
 
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+Size: 15.6"
+Processor: Intel Core i5 (12th)
+RAM: 16 GB
+Storage: 1 TB Gen 4 SSD
 
-I have limited knowledge that the current teacher told be verbally before he left for summer break. I do not have access to him or the school for several months. The hardware are a mixture of  tower computers and laptops, that all have 16 Gb of Ram and 1 Tb of memory. The tower computers are all plugged in via ethernet and hardwired to the wall. The laptops are connecting to the router to the school wifi. The students themselves will not have to provide anything on their own. 
+
+Student devices: 
+Type: Tower Desktops Dell OptiPlex with 22-24" Full HD Monitor
+Processor: Intel Core i5 (8th Gen)
+RAM: 8 GB
+Storage: 256 GB NVMe SSD (minimum) or 500 GB SATA SSD
+Graphics: Integrated
+The tower computers are all plugged in via ethernet and hardwired to the wall.
 
 ### Application
 
